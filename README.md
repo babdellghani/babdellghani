@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdelghanib" target="blank"><img src="https://img.shields.io/twitter/follow/abdelghanib?logo=twitter&style=for-the-badge" alt="abdelghanib" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, Express.Js, NextJs**
 
 - 👨‍💻 All of my projects are available at [babdellghani.me](babdellghani.me)
 
